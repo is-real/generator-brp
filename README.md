@@ -5,7 +5,7 @@ Yeoman generator with optional Modernizr, RequireJS, Compass, jQuery, ThreeJS an
 
 Uses live reload, jshint and all the classic stack.
 
-WORK IN PROGRESS
+**WORK IN PROGRESS**
 
 use
 ----
